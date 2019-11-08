@@ -13,6 +13,7 @@ namespace PaymentReceived
 {
     public static class Functions
     {
+		
         /// <summary>
         /// Simply function triggered by HTTP and send a mesage to queue storage
         /// </summary>
